@@ -1,1 +1,2 @@
 # Travego-Travelers
+The Travego Travelers SQL project is aimed at developing a robust and efficient database system for a travel management company called Travego Travelers. This project is crucial for managing and organizing the vast amount of data related to travel bookings, customer information, itineraries, and financial transactions. The project will involve creating tables, defining relationships between tables, and performing data manipulation operations using SQL.
